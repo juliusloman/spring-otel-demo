@@ -1,4 +1,4 @@
-package net.kyberia.dynatrace.opentelemetry;
+package sk.slsp.opentelemetry.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
